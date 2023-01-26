@@ -157,3 +157,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Do not ignore openapi.log
+!openapi.log
